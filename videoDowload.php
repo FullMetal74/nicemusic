@@ -41,7 +41,12 @@ echo '
 
 
 
-
+			<!--UberCPM.com BANNER 728x90 - DO NOT MODIFY-->
+			<script type="text/javascript"><!--
+			document.write('<s'+'cript type="text/javascript" src="//ubercpm.com/show.php?z=26&pl=25007&j=1&code='+new Date().getTime()+'"></s'+'cript>'); 
+			// --></script>
+			<!--UberCPM.com BANNER 728x90 - DO NOT MODIFY-->
+			
 		</center>
 	</div>
 
