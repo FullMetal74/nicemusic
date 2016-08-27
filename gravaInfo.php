@@ -1,5 +1,5 @@
 <?php
-function gravaUrlArquivo(){
+function gravaUrlArquivo($url){
 	
 	include("hitcounter.php");
 	$ip = pegaMeuIp();

@@ -21,7 +21,7 @@
 
 echo '
 
-	<h1>Seu link para baixar:</h1>	
+	<h1>Download here:</h1>	
 
 <iframe style="width:230px;height:60px;border:0;overflow:hidden;" scrolling="no" src="//www.youtubeinmp3.com/widget/button/?video='.$url.'" &color=#4863A0></iframe>
 	<br>
@@ -35,7 +35,7 @@ echo '
 ';
 
 				include("gravaInfo.php");
-				gravaUrlArquivo();
+				gravaUrlArquivo($url);
 
 
 				}
