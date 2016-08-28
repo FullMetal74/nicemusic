@@ -35,4 +35,13 @@ function chamaContador(){
 	
 }
 
+function mostraContador(){
+	$datei = fopen("contador.txt","r");
+	$count = fgets($datei,1000);
+
+	return $count;
+
+}
+
+
 ?>
