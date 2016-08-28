@@ -10,7 +10,7 @@
 <br>
 	<center>
 	<form action="validador.php" method="post">
-		<input type="text" name="senhaLonga"><br>
+		<input type="password" name="senhaLonga"><br>
 		<input type="submit" value="login">
 	</form>
 	</center>

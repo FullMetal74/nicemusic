@@ -30,7 +30,7 @@ function atualizaContador(){
 
 function chamaContador(){
 	//ip publico ufsm
-	if (pegaMeuIp() == '200.18.43.6') 
+	if ( !(pegaMeuIp() == '200.18.43.6') )
 		atualizaContador();
 	
 }
